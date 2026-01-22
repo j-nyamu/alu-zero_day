@@ -1,1 +1,1 @@
-# Content for git directory README
+This is my git directory
